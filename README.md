@@ -16,7 +16,8 @@ work and through this project we'll also know to get a deep understanding of suc
 algorithms.
 
 
-![Screenshot (153)](https://user-images.githubusercontent.com/57298109/190845083-49b619ce-98ce-48a4-8f63-0f944d4105ff.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/57298109/190845099-f8738261-7033-41ec-8cf6-ce04dad33974.png)
+
 
 
 
